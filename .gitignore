@@ -1,0 +1,24 @@
+# Sistemas y editores
+.DS_Store
+Thumbs.db
+/.vscode/
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Entornos y dependencias
+.env
+.env.local
+
+# Archivos de build
+dist/
+build/
+
+# Logs
+*.log
+
+# Macros y otros
+*.swp
+__pycache__/
